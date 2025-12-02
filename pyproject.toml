@@ -1,0 +1,7 @@
+[project]
+name = "programmingwithai"
+version = "0.1.0"
+description = "Live demos of using AI for programming"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
